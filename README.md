@@ -4,9 +4,9 @@
 
 **Author :** Fesal Badday
 
-**Repo :** [Github Repo](https://github.com/FesalBadday/cpnt201-a3)
+**Repo :** [Github Repo](https://github.com/FesalBadday/svg-logo)
 
-**Site :** [Github Pages](https://FesalBadday.github.io/cpnt201-a3)
+**Site :** [Github Pages](https://FesalBadday.github.io/svg-logo)
 
 ---
 
